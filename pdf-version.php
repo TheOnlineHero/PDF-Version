@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: PDF Version Link
-Plugin URI: http://wordpress.org/extend/plugins/pdf-version/
+Plugin URI: http://wordpress.org/extend/plugins/pdf-version-link/
 Description: Creates a link to a page that actually displays it as a PDF version.
 
 Installation:
@@ -10,7 +10,7 @@ Installation:
 
 2) Download the latest from:
 
-http://wordpress.org/extend/plugins/pdf-version
+http://wordpress.org/extend/plugins/pdf-version-link
 
 3) Login to WordPress admin, click on Plugins / Add New / Upload, then upload the zip file you just downloaded.
 

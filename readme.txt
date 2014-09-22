@@ -1,4 +1,4 @@
-=== PDF Version ===
+=== PDF Version Link ===
 Contributors: MMDeveloper
 Donate link: 
 Tags: pdf, post, page, viewer, view, shortcode
@@ -22,7 +22,7 @@ Swap the "http://www.google.com.au" for your url and then "Google" for the name 
 
 2) Download the latest from:
 
-http://wordpress.org/extend/plugins/pdf-version
+http://wordpress.org/extend/plugins/pdf-version-link
 
 3) Login to WordPress admin, click on Plugins / Add New / Upload, then upload the zip file you just downloaded.
 
